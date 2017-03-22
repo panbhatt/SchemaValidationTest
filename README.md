@@ -1,6 +1,9 @@
 
 # Steps to execute the project exercises
 ## JOI Based Schema  Validation.
+
+### npm install  [ INSTALL all the modules ]
+## RUN
 ## Exercise 1
  * npm run ex1   [ This will produce the MESSAGE JSON SCHEMA on the console and perform validation of sample objects against it]
 
