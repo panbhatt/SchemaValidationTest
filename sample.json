@@ -1,0 +1,28 @@
+// user Creation valid JSON
+{
+    "type": "UC",
+    "text": "First time creating user object",
+    "body": {
+        "username": "PNAKJ BHATT",
+        "password": "ABCD34434",
+        "email": "panbhatt@gmail.com"
+    }
+}
+
+
+// user Deletion valid JSON
+{
+    "type": "UD",
+    "text": "First time creating user object",
+    "username": "PNAKJBHATT"
+}
+
+
+// user Updation valid JSON
+{
+    "type": "UU",
+    "text": "First time creating user object",
+    "body": {
+        "email": "panbhatt@gmail.com"
+    }
+}
