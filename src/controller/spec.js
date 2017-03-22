@@ -1,7 +1,7 @@
 var convert = require('joi-to-json-schema');
 var joi = require('joi');
 var Boom = require('boom');
-var Cache = require('cache');
+var Cache = require('./../cache');
 
 var schemaUtility = require('./../utility');
 
